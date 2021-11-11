@@ -1,4 +1,4 @@
-# NLP-jieba
+# NLP-MyRetro-jieba
 
 ### 一、实验完成情况
 
